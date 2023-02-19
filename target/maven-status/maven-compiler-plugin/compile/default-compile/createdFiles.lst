@@ -1,0 +1,5 @@
+plugin.yml
+me/delluna/dellunabackpack/event/onInventoryCloseEvent.class
+me/delluna/dellunabackpack/util/BackpackData.class
+me/delluna/dellunabackpack/event/onPlayerJoinEvent.class
+me/delluna/dellunabackpack/event/onPlayerInteractEvent.class
